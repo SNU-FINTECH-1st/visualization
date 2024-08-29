@@ -8,7 +8,6 @@
 <table>
   <thead>
     <tr>
-      https://github.com/user-attachments/assets/bb353ed1-3234-4eeb-9dad-ad98c1a79cbb
       <th><img width="220" alt="image" src="https://github.com/user-attachments/assets/bb353ed1-3234-4eeb-9dad-ad98c1a79cbb"></th>
       <th><img width="220" alt="image" src="https://github.com/user-attachments/assets/bb353ed1-3234-4eeb-9dad-ad98c1a79cbb"></th>
       <th><img width="220" alt="image" src="https://github.com/user-attachments/assets/bb353ed1-3234-4eeb-9dad-ad98c1a79cbb"></th>
